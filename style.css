@@ -1,6 +1,5 @@
-/* =====================
-   GLOBAL RESET
-===================== */
+
+   
 * {
   margin: 0;
   padding: 0;
@@ -13,9 +12,7 @@ body {
   color: #222;
 }
 
-/* =====================
-   HEADER
-===================== */
+
 header {
   background: white;
   padding: 18px 8%;
@@ -53,9 +50,7 @@ nav a {
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 
-/* =====================
-   HERO SECTION (FINAL)
-===================== */
+
 .hero {
   height: 70vh;
   min-height: 520px;
@@ -74,7 +69,7 @@ nav a {
   color: white;
 }
 
-/* Dark bluish overlay */
+
 .hero::before {
   content: "";
   position: absolute;
@@ -137,9 +132,7 @@ nav a {
   transform: translateY(-3px);
 }
 
-/* =====================
-   PROBLEMS SECTION
-===================== */
+
 .problems {
   padding: 70px 10%;
   background: white;
@@ -178,9 +171,7 @@ nav a {
   color: #555;
 }
 
-/* =====================
-   SOLUTION
-===================== */
+
 .solution {
   padding: 70px 10%;
   background: #f8f9fb;
@@ -212,9 +203,7 @@ nav a {
   margin-bottom: 10px;
 }
 
-/* =====================
-   CTA
-===================== */
+
 .cta {
   text-align: center;
   padding: 70px 10%;
@@ -226,9 +215,7 @@ nav a {
   margin-bottom: 20px;
 }
 
-/* =====================
-   FOOTER
-===================== */
+
 footer {
   background: #0f2027;
   color: white;
